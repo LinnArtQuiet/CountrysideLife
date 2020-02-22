@@ -1,40 +1,5 @@
-运行入口：
-1、编译器运行：main包下面的App类
-2、双击jar包
-文件：运行前将编辑好的random文件夹和空的user文件夹放于src同级下；
-         运行过程中，会在空的user文件夹下产生用户相关数据，数据更新也发生在user文件夹下的用户数据文件内。
+CountrysideLife is a kind of farm simulation game.
+Cultivation and placement is the core of CountrysideLife, since "QQ Farm" in our childhood to "Travel Frog" which is the hot game recently. Although SIM Simulation Game is not a popular game category, but takes a place in the game market.
 
-运行环境：
-Windows、Linux、Mac系统均可运行本游戏。
-
-包的内容分布：
-1、main包: 主程序运行入口
-2、Bag包：提供背包系统的种子、果实、食物数据获取方法
-3、Crop包：提供种植系统的农作物生长、状态改变的方法
-4、Data包：提供文件流输入输出的方法
-5、Events包：提供土地操作的方法（种植、收获、浇水、移除）
-6、front包：提供美术素材获取的方法
-7、Lands包：提供土地显示、状态改变的方法
-8、RandomEvent：支持随机屋中随机锦囊触发的随机事件
-9、user包：提供游戏用户数据的存取调用的方法
-10、ui.bag包和ui.shop：实现背包界面、商店界面
-11、ui.bed包：卧室界面、睡眠系统的实现
-12、ui.extra包：主界面中湖里天鹅的移动
-13、ui.game包：主界面显示、交互，背景音乐、音效设置、游戏时间系统的实现。
-14、ui.sold和ui.purchase包：出售果实和商店系统购买实现
-15、ui.set包：设置界面（玩家注册信息更改）
-16、ui.user包：游戏预游戏和三个游戏选择界面的实现。
-17、ui.friend包：社交系统实现
-
-游戏全流程介绍：
-1、打开游戏：点击“起始”按钮
-2、登录与注册：输入账号和密码点击“登录”（未注册则先注册再登录）
-3、预游戏界面：继续游戏（保留上次游戏数据）或者重置游戏（之前的数据均被初始化，重新开始游戏）
-4、点击“归家”“市集”“访友”进入不同界面；在其他界面点击小船跳转回此界面。
-5、“归家”：玩家自己的农场界面。点击左侧房屋可进入卧室，夜晚点击床铺可睡觉，点击门离开房间。点击界面下方的工具按钮和背包可进行浇水、种植、移除作物等一系列操作。点击宝塔可进入随机屋，触发随机事件（3级后解锁）。点击“思源谷”，可见到不同的NPC。
-6、“访友”：参观好友的农场，可采摘好友成熟作物，也可为好友浇水
-7、“市集“：购买种子和食物
-
-存储条件：
-         预先在src同级下建立编辑好的random文件夹和空的user文件夹；
-         运行过程中，会在空的user文件夹下产生用户相关数据，数据更新也发生在user文件夹下的用户数据文件内。
+Group Members:
+Lin Yijing\Chen Qiuyan\Wang Yao\Yu Jiaxi\Zhao Yani
