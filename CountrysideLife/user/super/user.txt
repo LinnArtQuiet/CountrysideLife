@@ -1,0 +1,15 @@
+#\u4FDD\u5B58\u914D\u7F6E\u7528\uFF01
+#Thu Dec 19 13:43:39 CST 2019
+npc=true
+level=15
+experience=342
+userID=super
+stoletimes=0
+random=true
+password=super
+helptimes=0
+money=250.0
+photopath=/image/Photo/photo6.png
+state=1
+outTime=178978
+energy=26

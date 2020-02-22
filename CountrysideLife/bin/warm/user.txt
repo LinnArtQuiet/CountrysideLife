@@ -1,0 +1,15 @@
+#\u4FDD\u5B58\u914D\u7F6E\u7528\uFF01
+#Thu Dec 19 13:45:19 CST 2019
+npc=false
+level=30
+experience=200
+userID=warm
+stoletimes=0
+random=false
+password=warm
+helptimes=0
+money=500.0
+photopath=/image/Photo/photo4.png
+state=1
+outTime=0
+energy=60

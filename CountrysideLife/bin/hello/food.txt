@@ -1,0 +1,11 @@
+#\u4FDD\u5B58\u914D\u7F6E\u7528\uFF01
+#Thu Dec 19 13:44:04 CST 2019
+food1=\u6842\u82B1\u7CD5,17.9,3,1,/image/Food/1.png
+food3=\u96EA\u82B1\u9165,26.6,4,7,/image/Food/3.png
+food2=\u5343\u5C42\u997C,20,4,3,/image/Food/2.png
+food5=\u9F99\u4E95,39.8,13,21,/image/Food/5.png
+food4=\u82B1\u8336,32.1,9,13,/image/Food/4.png
+food7=\u828B\u6CE5\u7CD5,54.6,24,43,/image/Food/7.png
+food6=\u67E0\u6AAC\u8336,46.3,18,31,/image/Food/6.png
+food9=\u4E4C\u9F99\u8336,70.5,39,73,/image/Food/9.png
+food8=\u5976\u6CB9\u86CB\u7CD5,61.9,31,57,/image/Food/8.png

@@ -1,0 +1,13 @@
+#\u4FDD\u5B58\u914D\u7F6E\u7528\uFF01
+#Thu Dec 19 13:44:32 CST 2019
+crop8=\u5357\u74DC,120000,3,19.3,21.1,29,/image/Crop8/seed.png,/image/Crop8/1.png,/image/Crop8/2.png,/image/Crop8/3.png,/image/Crop8/die.png
+crop9=\u8304\u5B50,120000,4,21.7,26,38,/image/Crop9/seed.png,/image/Crop9/1.png,/image/Crop9/2.png,/image/Crop9/3.png,/image/Crop9/4.png,/image/Crop9/die.png
+crop10=\u9752\u6912,180000,3,24.5,35.3,47,/image/Crop10/seed.png,/image/Crop10/1.png,/image/Crop10/2.png,/image/Crop10/3.png,/image/Crop10/die.png
+crop1=\u80E1\u841D\u535C,60000,3,2.5,5,1,/image/Crop1/seed.png,/image/Crop1/1.png,/image/Crop1/2.png,/image/Crop1/3.png,/image/Crop1/die.png
+crop2=\u767D\u83DC,60000,4,4.3,6.3,2,/image/Crop2/seed.png,/image/Crop2/1.png,/image/Crop2/2.png,/image/Crop2/3.png,/image/Crop2/4.png,/image/Crop2/die.png
+crop11=\u897F\u7EA2\u67FF,180000,3,26.7,40.2,57,/image/Crop11/seed.png,/image/Crop11/1.png,/image/Crop11/2.png,/image/Crop11/3.png,/image/Crop11/die.png
+crop3=\u767D\u841D\u535C,60000,3,6.2,8,4,/image/Crop3/seed.png,/image/Crop3/1.png,/image/Crop3/2.png,/image/Crop3/3.png,/image/Crop3/die.png
+crop4=\u5377\u5FC3\u83DC,90000,3,8.9,13.2,7,/image/Crop4/seed.png,/image/Crop4/1.png,/image/Crop4/2.png,/image/Crop4/3.png,/image/Crop4/die.png
+crop5=\u82B1\u6930\u83DC,90000,3,10,14,11,/image/Crop5/seed.png,/image/Crop5/1.png,/image/Crop5/2.png,/image/Crop5/3.png,/image/Crop5/die.png
+crop6=\u671D\u5929\u6912,90000,3,13.8,17,16,/image/Crop6/seed.png,/image/Crop6/1.png,/image/Crop6/2.png,/image/Crop6/3.png,/image/Crop6/die.png
+crop7=\u8611\u83C7,120000,3,16.2,19.7,22,/image/Crop7/seed.png,/image/Crop7/1.png,/image/Crop7/2.png,/image/Crop7/3.png,/image/Crop7/die.png

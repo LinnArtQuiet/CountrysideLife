@@ -1,0 +1,15 @@
+#\u4FDD\u5B58\u914D\u7F6E\u7528\uFF01
+#Sat Dec 21 09:35:27 CST 2019
+npc=false
+level=10
+experience=155
+userID=\u9E6D\u5C9B\u4F20\u5947
+stoletimes=0
+random=false
+password=123
+helptimes=0
+money=1970.5
+photopath=/image/Photo/photo2.png
+state=1
+outTime=528362
+energy=53

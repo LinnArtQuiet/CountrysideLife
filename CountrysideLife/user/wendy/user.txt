@@ -1,0 +1,15 @@
+#\u4FDD\u5B58\u914D\u7F6E\u7528\uFF01
+#Thu Dec 19 13:45:38 CST 2019
+npc=false
+level=12
+experience=0
+userID=wendy
+stoletimes=0
+random=false
+password=wendy
+helptimes=0
+money=500.0
+photopath=/image/Photo/photo3.png
+state=1
+outTime=0
+energy=60

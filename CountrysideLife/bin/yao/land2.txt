@@ -1,0 +1,8 @@
+#\u4FDD\u5B58\u914D\u7F6E\u7528\uFF01
+#Tue Dec 24 17:02:27 CST 2019
+cropId=1
+getLevel=1
+stageNow=2
+state=0
+growTime=0
+dieTime=81000
